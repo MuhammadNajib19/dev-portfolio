@@ -6,6 +6,7 @@ body {
 nav {
   display: flex;
   justify-content: space-between;
+  margin: 0 200px;
 }
 .primary-text{
   color: #FD6E0A;;
@@ -36,5 +37,16 @@ nav li{
 }
 nav li a{
   text-decoration: none;
-
+  color: #474747;
+}
+.bg{
+  background: #FFF8F3;
+}
+.banner{
+  display: flex;
+  padding: 30px 30px 30px 150px;
+  align-items: center;
+}
+.hardy-mama{
+  width: 500px;
 }
