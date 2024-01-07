@@ -169,3 +169,14 @@ main {
   text-align: center;
   font-size: 18px;
 }
+
+.resume-container {
+  margin-top: 130px;
+}
+
+.colum-tile {
+  color: #474747;
+  font-size: 27px;
+  font-weight: 700;
+
+}
